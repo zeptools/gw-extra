@@ -4,7 +4,7 @@ go 1.25.3
 
 require (
 	github.com/phpdave11/gofpdf v1.4.3
-	github.com/zeptools/gw-core v0.0.0-20251017154203-3b7afee35e66
+	github.com/zeptools/gw-core v0.0.0-20251021201802-a54381cb08c5
 )
 
 require (
